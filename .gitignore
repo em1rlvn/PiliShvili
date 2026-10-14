@@ -1,0 +1,15 @@
+# Dependencies and generated builds
+my-react-app/node_modules/
+my-react-app/dist/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
